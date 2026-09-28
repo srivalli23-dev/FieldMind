@@ -1,0 +1,6 @@
+streamlit
+groq
+python-dotenv
+requests
+hindsight-api==0.10.1
+hindsight-client
